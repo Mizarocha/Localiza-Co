@@ -4,7 +4,7 @@
 
 ### Aperfeiçoanda cada dia mais meus conhecimentos e colocando em prática.
 
-#### Com base no site original da Localiza, recriei um clone do página todo responsivo.
+#### Com base no site original da Localiza, recriei um clone do site todo responsivo.
 
 
 - Original:      
