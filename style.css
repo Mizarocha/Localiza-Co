@@ -257,9 +257,8 @@ section .card-item {
 }
 
 .block {
-  margin: 5px 10px;
+  margin: 8px;
   margin-bottom: 20px;
-  padding: 20px;
   text-align: center;
   border-radius: 8px;
   display: inline-block;
@@ -268,7 +267,7 @@ section .card-item {
 
 .block img {
   border-radius: 10px;
-  width: 400px;
+  width: 300px;
   text-align: center;
 }
 
