@@ -163,7 +163,7 @@ section .filter-card {
   text-indent: 10px;
 }
 
-.search-button {
+.filter-card button {
   width: 150px;
   height: 50px;
   border-radius: 0px 4px 4px 0px;
@@ -174,7 +174,7 @@ section .filter-card {
   transition: 0.2s ease;
 }
 
-.search-button:hover {
+.filter-card button:hover {
   background: greenyellow;
 }
 
