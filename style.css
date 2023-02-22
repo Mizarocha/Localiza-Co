@@ -223,7 +223,7 @@ section .card-item {
 }
 
 .card-item button {
-  width: 90%;
+  width: 125%;
   padding: 15px 0px;
   border: none;
   border-radius: 4px;
