@@ -4,7 +4,7 @@
 
 ### Aperfeiçoanda cada dia mais meus conhecimentos e colocando em prática.
 
-#### Com base no site original da Localiza, recriei um clone do site todo responsivo.
+#### Com base no site original da Localiza, recriei um clone do site todo responsivo e todos as funcionalidades, como eu só fazia páginas crua, me desafiei em fazer o site completo e funcionando. 
 
 
 - Original:      
